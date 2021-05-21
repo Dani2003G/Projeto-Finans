@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img src="gif/gif_finans_pc.gif">
+    <img src="gif/finans_pc.gif">
     <br>
     Site em um dispositivo grande
 </h1>
 
 <h1 align="center">
-    <img src="gif/gif_finans_celular.gif">
+    <img src="gif/finans_celular.gif">
     <br>
     Site em um dispositivo pequeno
 </h1>
